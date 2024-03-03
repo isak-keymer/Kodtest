@@ -1,0 +1,9 @@
+# Ignore all files in the .vs directory
+.vs/
+
+# Ignore all .nupkg files
+*.nupkg
+
+# Ignore the build output directory
+bin/
+obj/
